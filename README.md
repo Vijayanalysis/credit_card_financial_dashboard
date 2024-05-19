@@ -1,5 +1,5 @@
 # credit_card_financial_dashboard
-ntroducing the "Credit Card Financial Weekly Dashboard Report," designed to provide real-time insights into critical performance metrics and trends in credit card operations. This dashboard empowers stakeholders to monitor and analyze data effectively for informed decision-making. 
+Introducing the "Credit Card Financial Weekly Dashboard Report," designed to provide real-time insights into critical performance metrics and trends in credit card operations. This dashboard empowers stakeholders to monitor and analyze data effectively for informed decision-making. 
 
 #  Dashboard Features:
 Credit Card Transaction Report: Dive into transaction insights with interactive KPIs and graphs, showcasing revenue by income, marital status, dependents, education, and weekly trends.
